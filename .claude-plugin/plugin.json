@@ -1,0 +1,20 @@
+{
+  "name": "agent-hud",
+  "version": "1.0.0",
+  "description": "Live HUD above the prompt: what every Claude Code subagent is doing right now, its steps, timer and result",
+  "author": { "name": "mozglo", "url": "https://github.com/mozglo" },
+  "homepage": "https://github.com/mozglo/claude-agent-hud",
+  "repository": "https://github.com/mozglo/claude-agent-hud",
+  "license": "MIT",
+  "keywords": ["subagents", "hud", "statusline", "progress", "desktop", "agents"],
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "language": {
+      "type": "string",
+      "title": "Language",
+      "description": "Language of the HUD: en or ru",
+      "default": "en",
+      "options": ["en", "ru"]
+    }
+  }
+}

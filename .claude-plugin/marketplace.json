@@ -1,0 +1,14 @@
+{
+  "name": "claude-agent-hud",
+  "description": "Live subagent HUD for Claude Code",
+  "owner": {
+    "name": "mozglo"
+  },
+  "plugins": [
+    {
+      "name": "agent-hud",
+      "source": "./",
+      "description": "Live HUD above the prompt: what every subagent is doing right now"
+    }
+  ]
+}
