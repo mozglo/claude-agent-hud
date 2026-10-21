@@ -6,7 +6,7 @@
 A live band above the prompt: goal, current action, steps, timer, result.
 No more staring at an empty chat while agents work in the background.
 
-<img src="assets/demo.svg" alt="Agent HUD showing two running subagents, one finished and one failed, above the Claude Code prompt" width="760">
+<img src="assets/demo.gif" alt="Agent HUD: four subagents start, show what they are doing live, one fails, one row expands to its log, then finished agents are cleared" width="760">
 
 [Install](#install) · [What it shows](#what-it-shows) · [Settings](#settings) · [How it works](#how-it-works)
 
